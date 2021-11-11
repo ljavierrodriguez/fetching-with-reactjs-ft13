@@ -1,24 +1,3 @@
 {
-  "contacts": [
-    {
-      "id": 1,
-      "name": "Sergio Pereira",
-      "phone": "+56911112222"
-    },
-    {
-      "name": "Antonio Bello",
-      "phone": "+56912341234",
-      "id": 3
-    },
-    {
-      "name": "Luis Rodriguez",
-      "phone": "+5692222222",
-      "id": 4
-    },
-    {
-      "name": "Manuel Rivas",
-      "phone": "23234234324",
-      "id": 6
-    }
-  ]
+  "contacts": []
 }

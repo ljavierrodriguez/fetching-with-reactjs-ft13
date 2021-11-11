@@ -224,7 +224,7 @@ export default function App() {
                 {
                     contacts.length === 0 ?
                         (
-                            <li className="text-center">
+                            <li className="list-group-item text-center border-0">
                                 <div className="spinner-border text-danger" role="status">
                                     <span className="visually-hidden">Loading...</span>
                                 </div>
