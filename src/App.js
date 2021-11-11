@@ -198,6 +198,7 @@ export default function App() {
             console.log(error);
         }
     }
+    
     const handleSubmit = e => {
         e.preventDefault();
         //console.log(contact);
